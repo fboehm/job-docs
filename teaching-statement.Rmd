@@ -2,7 +2,9 @@
 title: 'Teaching statement'
 author: "Frederick Boehm"
 date: "`r lubridate::now()`"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 I've served as instructor of record for high-enrollment introductory statistics courses for undergraduate engineers and undergraduate biologists. I've also served as a member of instructional teams for small graduate-level courses in the scholarship of teaching and learning. 
