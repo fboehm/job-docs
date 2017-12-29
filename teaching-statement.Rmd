@@ -12,3 +12,4 @@ I've served as instructor of record for high-enrollment introductory statistics 
 Backward design is a guiding principle for planning and teaching in all courses that I teach. The central idea of backward design is to start course planning by specifying what students will be able to do at the end of the course. For example, for an introductory statistics course, I would identify a goal like "Students will be able to use data to answer scientific questions in their appropriate contexts." 
 
 With this and related goals in mind, I proceed to define evidence that I'll use to determine whether the students achieved the goals. For the goal above, I might use as evidence a student-authored statistical consulting report in which the student 1) clearly explains the scientific setting, 2) discusses the methods used to collect data, 3) uses appropriate visualizations, 4) correctly calculates I use both formative and summative assessment methods in my courses. 
+
